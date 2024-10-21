@@ -1,0 +1,7 @@
+;
+;	source generated packfile
+;
+;!name=life again
+;!icon=pictures/icon.ico
+;!runtime=hsp3hg.hrt
++start.ax
